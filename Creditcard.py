@@ -1,6 +1,6 @@
 Pyhton code for Credit card number
 =================================
-''' this code sho
+''' this code helps to find valid Credit card numbers '''
 
 
 --It must start with a 4,5 or 6
